@@ -1,0 +1,1 @@
+[16-Apr-2020 03:46:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nxp9797/public_html/Nihar_Vikram_Project4/insert.php on line 16
