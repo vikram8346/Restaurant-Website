@@ -14,12 +14,20 @@ Finally the website was converted into Mobile-View-Controller pattern using Lara
 
 Requirements for Laravel:
 
-PHP >= 7.3.0
+* PHP >= 7.3.0
 
-Node.js
+* Node.js
 
-Composer
+* Composer
 
-PHPUnit
+* PHPUnit
 
 Screenshots:
+
+![](https://github.com/vikram8346/Restaurant-Website/blob/main/ss1.png)
+
+![](https://github.com/vikram8346/Restaurant-Website/blob/main/ss2.png)
+
+![](https://github.com/vikram8346/Restaurant-Website/blob/main/ss4.png)
+
+![](https://github.com/vikram8346/Restaurant-Website/blob/main/ss3.png)
