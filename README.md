@@ -15,9 +15,10 @@ Finally the website was converted into Mobile-View-Controller pattern using Lara
 Requirements for Laravel:
 
 PHP >= 7.3.0
-OpenSSL PHP Extension
-PDO PHP Extension
-Mbstring PHP Extension
-Tokenizer PHP Extension
-XML PHP Extension
+
+Node.js
+
+Composer
+
+PHPUnit
 
